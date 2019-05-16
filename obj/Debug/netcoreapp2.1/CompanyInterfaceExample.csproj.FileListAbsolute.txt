@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\bin\Debug\netcoreapp2.1\CompanyInterfaceExample.deps.json
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\bin\Debug\netcoreapp2.1\CompanyInterfaceExample.runtimeconfig.json
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\bin\Debug\netcoreapp2.1\CompanyInterfaceExample.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\bin\Debug\netcoreapp2.1\CompanyInterfaceExample.dll
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\bin\Debug\netcoreapp2.1\CompanyInterfaceExample.pdb
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\obj\Debug\netcoreapp2.1\CompanyInterfaceExample.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\obj\Debug\netcoreapp2.1\CompanyInterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\obj\Debug\netcoreapp2.1\CompanyInterfaceExample.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\obj\Debug\netcoreapp2.1\CompanyInterfaceExample.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\obj\Debug\netcoreapp2.1\CompanyInterfaceExample.dll
+C:\Users\Admin\source\repos\CompanyInterfaceExample\CompanyInterfaceExample\obj\Debug\netcoreapp2.1\CompanyInterfaceExample.pdb
